@@ -1,6 +1,6 @@
 {
   "lang": "Deutsch",
-  "about": "about",
+  "about": "Über",
   "active files": "Aktive Datein",
   "alert": "Achtung",
   "app theme": "App style",
@@ -125,5 +125,5 @@
   "format": "Format",
   "project name": "Projekt Name",
   "support us": "Unterstütze Acode's Entwicklung, bekomme ein patreon.",
-  "unsupported device": "Your device does not support theme.   Dein Gerät unterstützt style nicht"
+  "unsupported device": "Dein Gerät unterstützt style nicht"
 }
